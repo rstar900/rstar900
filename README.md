@@ -1,5 +1,10 @@
 ### Hi there 👋 I am Rachit Garg.
 
+### Connect with me on
+
+<a href=https://www.instagram.com/rg_wandering/> <img src="./images/instagram.svg" width="40" height="40" alt="Instagram"> &nbsp; <a href=https://www.linkedin.com/in/rachit-garg-a4741712b/> <img src="./images/linkedin.svg" width="40" height="40" alt="Linkedin">
+
+
 <!--
 **rstar900/rstar900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
