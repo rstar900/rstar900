@@ -3,7 +3,7 @@
 ### Currently pursuing my masters in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - Now)
 ### Currently learning C++, Rust and Embedded Linux development
 ### Learnt or atleast dealt with quite a few programming and scripting languages before like C, C++, Java, C#, Swift, Dart, Python, Rust, HTML, CSS, Javascript, Typescript, Verilog, VHDL, Assembly (8086, RISC-V, and ARM), Bash script
-### Future plans: Probably dig deeper in Rust
+### Future plans: Probably dig deeper in Rust and whatever opportunities the future holds
 <br><br>
 ### Apart from programming languages, I also speak : <br>
 ### --> HINDI (Native Speaker) <br>
