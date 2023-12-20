@@ -11,7 +11,6 @@
 ### --> GERMAN (B2) 
 <br><br>
 ### Love: Tech, Travel, Cars, Music, Movies and Racing games
-### Currently playing : Asphalt 9 Legends, Real Racing 3 and Crew 2
 <br><br>
 ### Connect with me on
 
