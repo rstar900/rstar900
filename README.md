@@ -8,7 +8,8 @@
 ### Apart from programming languages, I also speak : <br>
 ### --> HINDI (Native Speaker) <br>
 ### --> ENGLISH (C1) <br>
-### --> GERMAN (B2) 
+### --> DEUTSCH (B2) 
+### --> SVENSKA (Ja, jag förstår lite)
 <br><br>
 ### Love: Tech, Travel, Cars, Music, Movies and Racing games
 <br><br>
