@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Rachit Garg.
 ### A Computer Science Engineer from India (SRM Institute of Science and Technology, Kattankulathur) (2016 - 2020)
-### And a masters in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - 2023)
+### And MSc. in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - 2023)
 ### Currently learning C++, Rust and Embedded Linux development
-### Learnt or atleast dealt with quite a few programming and scripting languages before like C, C++, Java, C#, Swift, Dart, Python, Rust, HTML, CSS, Javascript, Typescript, Verilog, VHDL, Assembly (8086, RISC-V, and ARM), Bash script
+### Learnt or atleast dealt with quite a few programming and scripting languages before like C, C++, Java, Python, Rust, Kotlin, C#, Swift, Dart, Python, HTML, CSS, Javascript, Typescript, Verilog, VHDL, Assembly (8086, RISC-V, and ARM), Bash script
 ### Future plans: Probably dig deeper in Rust and whatever opportunities the future holds
 <br><br>
 ### Apart from programming languages, I also speak : <br>
