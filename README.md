@@ -14,8 +14,9 @@
 ### Love: Tech, Travel, Cars, Music, Movies and Racing games
 <br><br>
 ### Connect with me on
-
-<a href=https://www.instagram.com/rg_wandering/> <img src="./images/instagram.svg" width="40" height="40" alt="Instagram"> &nbsp; <a href=https://www.linkedin.com/in/rachit-garg-a4741712b/> <img src="./images/linkedin.svg" width="40" height="40" alt="Linkedin">
+<a href=https://www.linkedin.com/in/rachit-garg-a4741712b/> <img src="./images/linkedin.svg" width="40" height="40" alt="Linkedin"> &nbsp;
+<a href=https://www.instagram.com/rg_wandering/> <img src="./images/instagram.svg" width="40" height="40" alt="Instagram"> &nbsp;
+<a href=https://www.duolingo.com/profile/RachitGarg101/> <img src="./images/duolingo.svg" width="40" height="40" alt="Duolingo">
 
 </br>
 <img src=https://komarev.com/ghpvc/?username=rstar900&color=blue>
