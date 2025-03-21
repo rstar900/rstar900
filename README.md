@@ -9,7 +9,7 @@
 ### --> ENGLISH (C1) <br>
 ### --> DEUTSCH (B2) 
 ### --> SVENSKA (Ja, jag förstår lite svenska)
-### --> NORSK (Litt norsk også)
+### --> NORSK (Litt bokmål også)
 <br><br>
 ### Love: Tech, Travel, Cars, Music, Movies and Racing games
 <br><br>
