@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Rachit Garg.
 ### A Computer Science Engineer from India (SRM Institute of Science and Technology, Kattankulathur) (2016 - 2020)
 ### And MSc. in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - 2023)
-### Currently learning more about IoT and Wireless Tech
+### Currently learning more about IoUT and Wireless Tech
 ### Learnt or atleast dealt with quite a few programming and scripting languages before like C, C++, Java, Python, Rust, Go, Kotlin, C#, Swift, Dart, Python, HTML, CSS, Javascript, Typescript, Verilog, VHDL, Assembly (8086, RISC-V, and ARM), Bash script
 <br><br>
 ### Apart from programming languages, I also speak : <br>
