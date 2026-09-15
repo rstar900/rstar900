@@ -1,15 +1,19 @@
 ### Hi there 👋 I am Rachit Garg.
-### A Computer Science Engineer from India (SRM Institute of Science and Technology, Kattankulathur) (2016 - 2020)
-### And MSc. in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - 2023)
-### Currently exploring IoUT and Wireless Tech as a PhD Research Fellow at Western Norway University of Applied Sciences (HVL), Bergen (https://sfismartocean.no/phds-and-postdocs/)
+### Currently a PhD Research Fellow at Western Norway University of Applied Sciences (HVL), Bergen for the SFI Smart Ocean Project (https://sfismartocean.no/phds-and-postdocs/)
+### Previously worked at ETAS (Bosch Group), Vector Informatik, and Fraunhofer IPA
+### MSc. in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - 2023)
+### And a Computer Science Engineer from India (SRM Institute of Science and Technology, Kattankulathur) (2016 - 2020)
+### Currently exploring IoUT and Wireless Tech 
 ### Learnt or atleast dealt with quite a few programming and scripting languages before like C, C++, Java, Python, Rust, Go, Kotlin, C#, Swift, Dart, Python, HTML, CSS, Javascript, Typescript, Verilog, VHDL, Assembly (8086, RISC-V, and ARM), Bash script
-<br><br>
+
+<br>
+
 ### Apart from programming languages, I also speak : <br>
 ### --> HINDI (Native Speaker) <br>
 ### --> ENGLISH (C1) <br>
 ### --> DEUTSCH (B2) 
-### --> SVENSKA (Ja, jag förstår lite svenska)
-### --> NORSK (Litt bokmål også)
+### --> NORSK (Jeg forstår litt bokmål)
+### --> SVENSKA (Ja, jag förstår lite svenska också)
 <br><br>
 ### Love: Tech, Travel, Cars, Music, Movies and Racing games
 <br><br>
