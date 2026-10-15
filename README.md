@@ -3,7 +3,7 @@
 ### Previously worked at ETAS (Bosch Group), Vector Informatik, and Fraunhofer IPA
 ### MSc. in Embedded Systems Engineering @ Uni Stuttgart, Germany (2020 - 2023)
 ### And a Computer Science Engineer from India (SRM Institute of Science and Technology, Kattankulathur) (2016 - 2020)
-### Currently exploring IoUT and Wireless Tech 
+### Currently exploring IoUT, IoT and Wireless Tech 
 ### Learnt or atleast dealt with quite a few programming and scripting languages before like C, C++, Java, Python, Rust, Go, Kotlin, C#, Swift, Dart, Python, HTML, CSS, Javascript, Typescript, Verilog, VHDL, Assembly (8086, RISC-V, and ARM), Bash script
 
 <br>
